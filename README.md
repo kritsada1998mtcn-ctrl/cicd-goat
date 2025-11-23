@@ -105,4 +105,4 @@ docker compose up -d
 * BSidesLV talk: [Climbing the Production Mountain: Practical CI/CD Attacks Using CI/CD Goat](https://www.youtube.com/watch?v=w-R2PT2jfdU) - Featuring solutions of the Caterpillar, Mock Turtle and Dormouse challenges.  
 
 ## Contributing
-See [Contributing](CONTRIBUTING.md).
+See [Contributing](CONTRIBUTING.md)
